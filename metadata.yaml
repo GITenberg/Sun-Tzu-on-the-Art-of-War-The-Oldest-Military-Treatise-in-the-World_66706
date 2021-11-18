@@ -1,0 +1,34 @@
+_repo: Sun-Tzu-on-the-Art-of-War-The-Oldest-Military-Treatise-in-the-World_66706
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Giles, Lionel
+    birthdate: 1875
+    deathdate: 1958
+    gutenberg_agent_id: '5101'
+    url: http://www.gutenberg.org/2009/agents/5101
+    wikipedia: https://en.wikipedia.org/wiki/Lionel_Giles
+creator:
+  author:
+    agent_name: Tzŭ, Sun
+    gutenberg_agent_id: '53926'
+    url: http://www.gutenberg.org/2009/agents/53926
+description: ''
+gutenberg_issued: '2021-11-11'
+identifiers:
+  gutenberg: '66706'
+language: en
+pgterms:marc904: https://archive.org/details/artofwaroldestmi00suntuoft
+pgterms:marc905: 20210225095646sunzi
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Ronald Grenier (This file was produced from images generously made
+  available by the Internet Archive/University of Toronto libraries)
+publication_note: United Kingdom :Luzac & Co.,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sun Tzŭ on the Art of War: The Oldest Military Treatise in the World'
+url: http://www.gutenberg.org/ebooks/66706
