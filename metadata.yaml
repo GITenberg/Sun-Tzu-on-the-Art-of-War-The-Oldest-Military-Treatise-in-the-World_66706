@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '5101'
     url: http://www.gutenberg.org/2009/agents/5101
     wikipedia: https://en.wikipedia.org/wiki/Lionel_Giles
+covers:
+- cover_type: archival
+  image_path: 66706-h/images/cover.jpg
 creator:
   author:
     agent_name: Tzŭ, Sun
     gutenberg_agent_id: '53926'
     url: http://www.gutenberg.org/2009/agents/53926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66706#Sun-Tzu-on-the-Art-of-War-The-Oldest-Military-Treatise-in-the-World
 gutenberg_issued: '2021-11-11'
 identifiers:
   gutenberg: '66706'
